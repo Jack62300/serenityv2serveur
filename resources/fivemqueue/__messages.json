@@ -1,0 +1,14 @@
+﻿{
+  "Gathering": "En attente d'informations",
+  "License": "License FiveM requise",
+  "Steam": "Steam doit être ouvert",
+  "Banned": "Vous êtes Bannis",
+  "Whitelist": "You are not whitelisted",
+  "Queue": "Vous êtes en file d'attente",
+  "PriorityQueue": "Vous êtes en file prioritaire",
+  "Canceled": "Retiré de la file d'attente",
+  "Error": "Une erreur est survenue",
+  "Timeout": "Trop de temps pour charger le serveur , vous serez placé en file d'attente prioritaire à votre prochaine connexion",
+  "QueueCount": "[File d'attente : {0}]",
+  "Symbols": "No symbols or consecutive spaces are allowed in your name"
+}

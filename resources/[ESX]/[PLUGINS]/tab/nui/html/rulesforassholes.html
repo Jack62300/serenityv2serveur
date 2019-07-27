@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Ruluko);
+    @import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+    [class*="fontawesome-"]:before {
+      font-family: 'FontAwesome', sans-serif;
+    }
+
+    * {
+      font-size: 100%;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-size: 100%;
+      height: 100%;
+      width: 100%;
+      box-sizing: border-box;
+      background: rgb(137, 193, 223);
+    }
+
+    body {
+      font-family: 'Ruluko', sans-serif;
+      font-size: 16px;
+      width: 100%;
+      margin: 0 auto;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+
+    body header {
+      top: 0;
+      margin: 0;
+      height: 4rem;
+      background: dodgerblue;
+      text-shadow: 0.5px 0.5px black;
+      box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.3);
+      -webkit-transition: all 0.7s ease;
+      transition: all 0.7s ease;
+      z-index: 1;
+    }
+
+    body header h1 {
+      margin-left: 1.5rem;
+      color: whitesmoke;
+      line-height: 1rem;
+    }
+
+    body header h1 span {
+      float: right;
+      margin-right: 2rem;
+      font-size: 3rem;
+      line-height: 2rem;
+      cursor: pointer;
+    }
+
+    body h2 {
+      font-size: 1.75em;
+    }
+
+    main {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+      align-items: stretch;
+    }
+
+    main .sidebar {
+      background: dodgerblue;
+      min-width: 180px;
+      max-width: 250px;
+      margin-bottom: 0;
+      color: whitesmoke;
+      text-shadow: 1px 1px #0d0d0d;
+      overflow: auto;
+      height: 600px;
+    }
+
+    main .sidebar ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+    }
+
+    main .sidebar li {
+      -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+      border-bottom: 2px solid #2F2F2F;
+    }
+
+    main .sidebar li:hover {
+      border-right: .5rem solid #81A4D4;
+      box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.4);
+    }
+
+    main .sidebar a {
+      color: whitesmoke;
+      display: block;
+      padding: 1.5em .2em;
+      text-decoration: none;
+      text-align: center;
+      font-size: 1.2em;
+      -webkit-transition: all 1s ease;
+      transition: all 1s ease;
+    }
+
+    main .sidebar a:before {
+      content: "SideBar";
+    }
+
+    main .sidebar a:hover {
+      color: #81A4D4;
+      margin-left: 1rem;
+    }
+
+    body>header {
+      height: 9rem;
+    }
+
+    body>header h1 {
+      line-height: 2rem;
+    }
+
+    body>header h1 span {
+      line-height: 8rem;
+    }
+
+    main {
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+
+    main .sidebar {
+      -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+    }
+
+    main .sidebar ul li {
+      margin: 0;
+      list-style-type: none;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+
+    main .sidebar ul li:last-child {
+      border-bottom: none;
+    }
+
+    main li {
+      -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
+      margin: 0;
+      padding: 0;
+    }
+
+    main .sidebar a:before {
+      content: "";
+    }
+
+    #all-content {
+      flex: 1;
+    }
+
+    .info {
+      background-color: #294860;
+      border-radius: 20px;
+      /* The border-radius gives rounded corners.*/
+      color: white;
+      padding: 10px;
+      margin: 10px auto;
+    }
+
+    h2 {
+      margin: 10px;
+    }
+
+    .info {
+      background-color: #DFEAF1;
+      padding: 4px;
+      margin: 10px;
+      border-radius: 4px;
+      color: black;
+    }
+
+    .info-title {
+      font-size: 3em;
+      margin: 8px;
+      text-align: center;
+      color: #294860;
+    }
+
+    .info-description {
+      font-weight: lighter;
+      /* this makes the font a bit less dark */
+      font-size: 1.3em;
+      margin: 6px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Guide des regles du Serveur</h1>
+  </header>
+  <main>
+    <div class="sidebar">
+      <div class="TOC">
+        <h1>Liste des Regles</h1>
+        <!-- Below this is a <ol> element. "ol" stands for "ordered list." -->
+        <ol>
+          <!-- <li> means "list item" -->
+          <li>
+            <a href="#info-1">Liste</a>
+            <!-- Next I add an "unordered list" within the "list item" of my "ordered list" -->
+            <ul>
+              <li>
+                <a href="#info-1-1">1. Powergaming</a>
+              </li>
+              <li>
+                <a href="#info-1-2">2. Metagaming </a>
+              </li>
+              <li>
+                <a href="#info-1-3">3.Carjacking et Carkill</a>
+              </li>
+              <li>
+                <a href="#info-1-4">4. Coma </a>
+              </li>
+              <li>
+                <a href="#info-1-5">5. Freekill et Revenge Kill</a>
+              </li>
+              <li>
+                <a href="#info-1-6">6. Accords OOC concernant les comportements sortant de l'ordinaire </a>
+              </li>
+              <li>
+                <a href="#info-1-7">7. Prenoms et Noms interdits </a>
+              </li>
+              <li>
+                <a href="#info-1-8">8.  Le tir a vue</a>
+              </li>
+              <li>
+                <a href="#info-1-9">9.  Mort RP</a>
+              </li>
+              <li>
+                <a href="#info-1-10">10.  Fear RP </a>
+              </li>
+              <li>
+                <a href="#info-1-11">11. Sanctions</a>
+               </li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+    </div>
+    <div id="all-content">
+      <h1>Regles du Serveur Serenity RP</h1>
+      <p>
+        Voici les regles du Serveur
+      </p>
+      <div class="info">
+        <h2 id="info-1">Explications des Regles</h2>
+        <div class="info" id="info-1-1">
+          <div class="info-title">
+            1. PowerGaming
+          </div>
+          <div class="info-description">
+            <p>
+	      Consiste a faire quelque chose qui serait impossible a realiser dans la vie reelle. Cela consiste egalement a s'octroyer une 
+	      sorte d'avantage et donc forcer les choses en sa faveur sans donner aucune chance a la partie adverse.
+	      Exemple : Lorsque vous vous prenez un obstacle a grande vitesse, jouez la scene d'accident comme elle se doit. 
+	      Meme chose quand on vous renverse ou encore quand vous recevez du gaz lacrymogene lors de manifestations par exemple. 
+	      Soyez logique et realiste !
+
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="info" id="info-1-2">
+        <div class="info-title">
+          2. Metagaming
+        </div>
+        <div class="info-description">
+          <p>
+	    Utiliser des informations OOC (Out Of Character) dans un contexte IC (In Character soit le contraire de OOC) est strictement prohibe. 
+	    Inciter quelqu'un a metagame est egalement interdit. Cela inclut des informations que les autres joueurs n'ont aucune raison de connaitre.
+ 	    Meme si sur Teamspeak/Skype/Mumble/Discord ou autres, votre ami vous dit que le gars en blanc derriere vous vend du cannabis vous devez 
+	    faire comme si il n'avait rien dit car sinon cela serait du metagame vu que vous utiliserez des informations obtenues de maniere OOC dans un 
+	    contexte IC. Il est interdit egalement d'utiliser des informations vu sur twitch pour les utiliser directement InGame, tout ceci vaudra un 
+	    avertissement pour tous.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-3">
+        <div class="info-title">
+          3. Carjacking et Carkill
+        </div>
+        <div class="info-description">
+          <p>
+	    Le carjack est le fait d ejecter un joueur de son vehicule sans sa permission et donc generalement de lui voler le vehicule.
+ 	    Il est interdit de carjack sans scene roleplay et donc sans interaction. Neanmoins il est autorise de carjack un joueur de son vehicule 
+	    (avec un motif valable) dans les moments ou une scene roleplay est impossible car cela prendrait trop de temps, par exemple lors
+	    d'une course poursuite. Le carkill lui consiste a ecraser volontairement un joueur sans raison valable, il est strictement interdit.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-4">
+        <div class="info-title">
+          4. Coma
+        </div>
+        <div class="info-description">
+          <p>
+	    Quelle que soit la raison du coma (blessure par balle, poing, famine, soif , 
+	    les regles suivantes sont LES MEMES sauf exception ( non mortel , KO )   :
+	    -Lors d une scene rp ou vous etes mis coma , et qu aucun soin vous ont ete fait , 
+	    le retour en zone est interdit avant la fin de la scene rp . Les retours sur zone sont strictement INTERDITS .
+ 	    ( - Une action est consideree comme terminee si aucun acte RP n'a eu lieu depuis 10 minutes.)
+	    - Si vous souhaitez re engager l'action, il faudra respecter les regles: 
+	    - Il est interdit de ranger son vehicule pendant une action dans le garage 
+	    (exemple : vous etes en courses poursuite et vous rangez votre vehicule dans le garage pour echapper aux forces de l'ordre), 
+	    cela n'est pas fair-play et sera sanctionne.
+	    - Vous pouvez reanimer un joueur sur un gun fight mais a vos risque et peril neanmoins , le joueurs reanimer et 
+	    le sauveteur ne pourront participer aux gun fight pendant 5 mins et devront rester l un a cote de l autre le temps de lui prodiguer 
+	    les soins necessaires pour re engager le combat .
+	    Lorsque vous etes reanime, vous subissez une perte partielle de votre memoire et n avez aucun souvenir des evenements qui se sont deroules durant votre coma,
+	    et dans le cadre d'une scene type braquage/prise d'otage, vous n'etes pas dans la capacite de vous enfuir, il a deux solutions a ce type de situations :
+	    - Vous vous faites embarquer par les medecins;
+	    - Vous restez au sol (emote allonge) jusqu'a ce que quelqu'un vienne vous chercher, flics ou amis/collegues.
+	   >Pour les pertes de memoire :
+	   - Si vous etes reanime : Vous perdez la memoire sur les 10 minutes precedant le coma.
+	   - Si vous vous reveillez a l'hopital : Vous oubliez toute la scene vous ayant mene au coma, vous etes simplement conscient des blessures 
+	   que vous avez (impact de balle, bosse sur la tete...). En revanche, d eventuels temoins peuvent vous rafraichir la memoire en vous racontant 
+	   les evenements lies a votre coma et votre retour a l'hopital.
+	   De meme la deconnexion/reconnexion pour eviter la perte de stuff suite a un coma est  STRICTEMENT INTERDITE. Un bannissement sera donne .
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-5">
+        <div class="info-title">
+          5. Freekill et Revenge Kill
+        </div>
+        <div class="info-description">
+          <p>
+	    Le freekill est le fait de tuer quelqu'un sans motif. Ceci est completement interdit, on ne tue pas une personne car celle-ci nous a 
+	    insulte ou regarde de travers(sauf motif rp ) . Declarer une rebellion n est pas une raison pour tuer tout le monde, meme si cela concerne 
+	    la police ou sheriff. Le terrorisme est egalement interdit sauf accord d'un membre de l'equipe d'administration. En ce qui concerne le Revenge Kill, 
+	    il s'agit du simple fait d'essayer ou de tuer la personne qui vient de vous tuer. Vu que vous venez de mourir les regles du coma s'applique et 
+	    vous devez donc oubliez tout ce qui est en relation avec votre coma.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-6">
+        <div class="info-title">
+          6. Accords OOC concernant les comportements sortant de l'ordinaire
+        </div>
+        <div class="info-description">
+          <p>
+            Un comportement sortant de l ordinaire prend en compte les cas suivants :
+	    - Le cannibalisme
+	    - Le demembrement de personnes
+	    - Acte de terrorisme
+	    - Et tout autre acte sortant de l ordinaire.
+	    Tous les cas cites au-dessus sont sujet a un accord OOC des deux partis avant la scene en question. 
+	    Neanmoins une interruption OOC reste possible tant que cela ne derange pas d'autres scenes roleplay 
+	    et/ou un accord a ete convenue avec le staff .
+	    A savoir que le fait de montrer ces pratiques e d'autres personnes meme si ces personnes ne 
+	    sont pas dans la meme piece est egalement sujet a un accord OOC de tout le monde.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-7">
+        <div class="info-title">
+          7. Prenoms et Noms interdits
+        </div>
+        <div class="info-description">
+          <p>
+            Vous n'avez pas le droit d'avoir le meme prenom/nom (et inversement) qu'une celebrite, par exemple : 
+	    Robert Downey Jr., Hugh Jackman, Scarlett Johansson, etc...
+	    LES FAUTES D ORTHOGRAPHE NE JUSTIFIENT PAS UN NOM RP.
+	    Votre prenom/nom doit etre sous la forme suivante : Prenom Nom. 
+	    Exemple : Peter Anderson. Si le nom de famille que vous choisissez est deja pris par un joueur ou trop ressemblant, 
+	    vous devez avoir son accord pour le porter, ou creer un lien de parente (n hesitez pas a faire appel a un Moderateur).
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-8">
+        <div class="info-title">
+          8. Le tir a vue
+        </div>
+        <div class="info-description">
+          <p>
+            Definition de sommation : C'est un avertissement qui a lieu avant d'avoir recours a la violence. 
+	    La personne qui recoit la sommation doit comprendre qu'on peut lui tirer dessus a tout moment.
+	    Le tir a vue est totalement interdit sur le serveur. Une sommation doit avoir lieu pour montrer votre presence 
+	    et votre interet envers la cible. Une fois la sommation faite, vous etes dans l'obligation de laisser un petit battement de quelques 
+	    secondes pour que le/les joueur(s) puisse(nt) bien prendre compte de l'alerte et si ils repliquent ou non a cette sommation. Lors d une scene, 
+	    si quelqu un fait une sommation, toutes les personnes presentes sur les lieux (meme les personnes cachees) peuvent faire usage de leurs arme.
+	    Exemples :
+	    - L'assaillant tire une balle dans le vide. Un battement de quelques secondes a lieu avant toute intervention des deux partis.
+	    - L'assaillant menace verbalement la victime (e.g. "Leve les mains ou je tire", "J'ai des hommes caches, si tu bouges tu meurs", etc..).
+	    Nous vous prions d'etre respectueux vis a vis de cette regle primordiale ! Elle est valable pour tous (malfrats, civils, policiers, etc.)
+	    Il strictement interdit de pointer une armes envers quelqu un si lui meme vous braque .
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-9">
+        <div class="info-title">
+          9.  Mort RP
+        </div>
+        <div class="info-description">
+          <p>
+            Une mort RP  entraine un whipe c est a dire un Deces pour toujours de votre personnage sur l'ile. 
+	    1.1 Toutes demandes de mort RP doit etre justifie, et faite par ecrit, puis envoye a un membre du STAFF UNIQUEMENT. 
+	    1.2 Lors d'une demande de mort RP lors de la scene en question toutes personnes impliquees dans la scene qui meurt 
+	    se voie appliquer une mort RP ! Sauf sur les agents des forces de l ordres et des EMS a moins que la demande de mort de rp leurs soit destines 
+	    2.1 Pour realiser une mort RP il faut absolument que les membres du  staffs soient d'accord sur l action. 
+	    2.2 Afin d avoir une preuve de la scene, chaque mort RP devra etre filme par un joueur, ou si un STAFF peut etre present sur la scene pour spec.
+	    3. Suite a une action de trois gros delit et qu elle se fait abattre, celle-ci se verra remettre une mort RP.
+	    4. Toutes armes non letale ne sont pas recevables par une mort RP.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-10">
+        <div class="info-title">
+          10. Fear RP
+        </div>
+        <div class="info-description">
+          <p>
+            Il s agit simplement du fait d avoir peur pour votre vie , le NoFear RP n est pas tolere 
+	    ( sauf les forces de l ordres , vous ne pouvez pas rester de marbre quelle que soit la situation.
+
+          </p>
+        </div>
+      </div>
+      <div class="info" id="info-1-11">
+        <div class="info-title">
+          11. Sanctions
+        </div>
+        <div class="info-description">
+          <p>
+            En fonction de la gravite de votre erreur, 3 types de sanctions peuvent vous etres attribuees :
+	     Un simple avertissement.
+	     Un bannissement temporaire du serveur.
+	     Un bannissement definitif du serveur.
+          </p>
+        </div>
+      </div>
+    </div>
+    </div>
+  </main>
+</body>
+
+</html>

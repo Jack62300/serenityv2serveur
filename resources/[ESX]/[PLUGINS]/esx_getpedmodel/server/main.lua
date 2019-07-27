@@ -1,0 +1,5 @@
+TriggerEvent('es:addGroupCommand', 'getpedmodel', 'admin', function(source, args, user)
+	TriggerClientEvent('esx:setPlayerModel', source, args[2])
+end, function(source, args, user)
+	TriggerClientEvent('chatMessage', source, "SYSTEM", {255, 0, 0}, "Insufficient Permissions.")
+end, {help = "Obtenir le model d'un ped", params = {{name = "getpedmodel", help = "Model"}}})

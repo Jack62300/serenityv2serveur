@@ -1,0 +1,1879 @@
+Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+Creating script environments for _cfx_internal
+Found new resource NativeUI in /home/ogp_agent/OGP_User_Files/V2/resources//NativeUI
+Found new resource loadipl in /home/ogp_agent/OGP_User_Files/V2/resources//loadipl
+Found new resource vMenu in /home/ogp_agent/OGP_User_Files/V2/resources//vMenu
+Found new resource fivem-awesome1501 in /home/ogp_agent/OGP_User_Files/V2/resources//fivem-awesome1501
+Found new resource bob74_ipl in /home/ogp_agent/OGP_User_Files/V2/resources//bob74_ipl
+Found new resource fivemqueue in /home/ogp_agent/OGP_User_Files/V2/resources//fivemqueue
+Found new resource fivem-ipl in /home/ogp_agent/OGP_User_Files/V2/resources//fivem-ipl
+Found new resource ipl in /home/ogp_agent/OGP_User_Files/V2/resources//ipl
+Found new resource runcode in /home/ogp_agent/OGP_User_Files/V2/resources//runcode
+Found new resource fivem-map-hipster in /home/ogp_agent/OGP_User_Files/V2/resources//fivem-map-hipster
+Found new resource fivem-map-skater in /home/ogp_agent/OGP_User_Files/V2/resources//fivem-map-skater
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/V2/resources//fivem
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/playernames
+Found new resource obituary in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/obituary
+Found new resource obituary-deaths in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/obituary-deaths
+Found new resource irc in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/irc
+Found new resource NoReticle in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/NoReticle
+Found new resource channelfeed in /home/ogp_agent/OGP_User_Files/V2/resources//[gameplay]/channelfeed
+Found new resource keks in /home/ogp_agent/OGP_User_Files/V2/resources//[test]/keks
+Found new resource betaguns in /home/ogp_agent/OGP_User_Files/V2/resources//[test]/betaguns
+Found new resource gameInit in /home/ogp_agent/OGP_User_Files/V2/resources//[test]/gameInit
+Found new resource demonhawk in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/demonhawk
+Found new resource 911gtrs in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/911gtrs
+Found new resource pista in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/pista
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/chat-theme-gtao
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/spawnmanager
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/rconlog
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/hardcap
+Found new resource baseevents in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/baseevents
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/scoreboard
+Found new resource chat in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/chat
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/sessionmanager
+Found new resource esx_basicneeds in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_basicneeds
+Found new resource voicechat in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/voicechat
+Found new resource esplugin_mysql in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esplugin_mysql
+Found new resource esx_addoninventory in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_addoninventory
+Found new resource knockout in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/knockout
+Found new resource async in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/async
+Found new resource progressBars in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/progressBars
+Found new resource mysql-async in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/mysql-async
+Found new resource cron in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/cron
+Found new resource esx_accessories in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_accessories
+Found new resource ccreation in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/ccreation
+Found new resource vBasic in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/vBasic
+Found new resource esx_addonaccount in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_addonaccount
+Found new resource esx_status in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_status
+Found new resource esx_society in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_society
+Found new resource hav_whitelistdb in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/hav_whitelistdb
+Found new resource essentialmode in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/essentialmode
+Found new resource esx_billing in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/esx_billing
+Found new resource es_admin2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESSENTIAL]/es_admin2
+Found new resource SS in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/SS
+Found new resource baby in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/baby
+Found new resource minibabygroot in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/minibabygroot
+Found new resource Chloe1 in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/Chloe1
+Resource loading for Chloe1 failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/Chloe1/__resource.lua.
+Found new resource yoda in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/yoda
+Found new resource child2 in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/child2
+Found new resource panther in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/panther
+Found new resource HarleyQuinn in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/HarleyQuinn
+Found new resource ironman in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/ironman
+Found new resource zeus in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/zeus
+Found new resource DeadPool in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/DeadPool
+Found new resource mk50 in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/mk50
+Found new resource shrek in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/shrek
+Found new resource skeleton in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/skeleton
+Found new resource Dante in /home/ogp_agent/OGP_User_Files/V2/resources//[PED]/Dante
+Found new resource esx_skin in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_skin
+Found new resource esx_menu_list in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_menu_list
+Found new resource esx_identity in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_identity
+Found new resource radialmenu in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/radialmenu
+Found new resource radialvehicule in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/radialvehicule
+Found new resource skinchanger in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/skinchanger
+Found new resource esx_inventoryhud_trunk in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_inventoryhud_trunk
+Found new resource esx_inventoryhud in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_inventoryhud
+Found new resource es_extended in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/es_extended
+Found new resource esx_menu_dialog in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_menu_dialog
+Found new resource nb_menuperso in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/nb_menuperso
+Found new resource esx_menu_default in /home/ogp_agent/OGP_User_Files/V2/resources//[MENU]/esx_menu_default
+Found new resource lifebook in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/lifebook
+Found new resource panneaux in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/panneaux
+Found new resource Range in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/Range
+Found new resource ranch in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/ranch
+Found new resource UFC in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/UFC
+Found new resource allcity_medical in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/allcity_medical
+Found new resource church in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/church
+Found new resource trevor2 in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/trevor2
+Found new resource villa in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/villa
+Found new resource sexshop in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/sexshop
+Found new resource beach in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/beach
+Found new resource databas-park in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/databas-park
+Found new resource michousef in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/michousef
+Found new resource bureaumecha in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/bureaumecha
+Found new resource skate3 in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/skate3
+Found new resource modernranch in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/modernranch
+Found new resource mansionr in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/mansionr
+Found new resource mansion in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/mansion
+Found new resource michael in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/michael
+Found new resource ballas in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/ballas
+Found new resource prison-map-addon in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/prison-map-addon
+Found new resource mapping in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/mapping
+Found new resource fmansion in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/fmansion
+Found new resource club in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/club
+Found new resource nw_bahamaMama in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/nw_bahamaMama
+Found new resource policemap in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/policemap
+Found new resource villa2 in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/villa2
+Found new resource trevorr in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/trevorr
+Found new resource maison in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/maison
+Found new resource c_policestation_needs in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/c_policestation_needs
+Found new resource studio in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/studio
+Found new resource circuit in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/circuit
+Found new resource hospital in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/hospital
+Found new resource concess in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/concess
+Found new resource propy in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/propy
+Found new resource race-test in /home/ogp_agent/OGP_User_Files/V2/resources//[gamemodes]/race-test
+Found new resource race in /home/ogp_agent/OGP_User_Files/V2/resources//[gamemodes]/race
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/V2/resources//[managers]/mapmanager
+Found new resource dodgeems in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[ambulance]/dodgeems
+Found new resource ems in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[ambulance]/ems
+Found new resource heliems1 in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[ambulance]/heliems1
+Found new resource emsfpiu in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[ambulance]/emsfpiu
+Found new resource moto in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/moto
+Found new resource fbi in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/fbi
+Found new resource schafter in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/schafter
+Found new resource Insurgent in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/Insurgent
+Found new resource interceptor in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/interceptor
+Found new resource policechiron in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/policechiron
+Found new resource mazepol in /home/ogp_agent/OGP_User_Files/V2/resources//[CARSMODDING]/[police]/mazepol
+Found new resource webpack in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/[builders]/webpack
+Found new resource yarn in /home/ogp_agent/OGP_User_Files/V2/resources//[system]/[builders]/yarn
+Found new resource esx-qalle-jail in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PRISON]/esx-qalle-jail
+Found new resource esx_jailer in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PRISON]/esx_jailer
+Found new resource esx_jb_realtimejailer in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PRISON]/esx_jb_realtimejailer
+Found new resource simpletp in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[TELEPORT]/simpletp
+Found new resource esx_teleports in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[TELEPORT]/esx_teleports
+Found new resource VK_interiors in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[TELEPORT]/VK_interiors
+Found new resource VK_main in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[TELEPORT]/VK_main
+Found new resource PiggyBack in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/PiggyBack
+Found new resource qalle-wheelchair in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/qalle-wheelchair
+Found new resource esx_lapdance in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_lapdance
+Found new resource esx_unishow in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_unishow
+Found new resource esx_ktackle in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_ktackle
+Found new resource esx_sit in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_sit
+Found new resource esx_animations in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_animations
+Found new resource Radiant_Animations in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/Radiant_Animations
+Found new resource esx_headbag in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/esx_headbag
+Found new resource bouclier in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ANIMATIONS]/bouclier
+Found new resource esx_barbershop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_barbershop
+Found new resource esx_coffeemachine in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_coffeemachine
+Found new resource esx_extraitems in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_extraitems
+Found new resource esx_supermarket in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_supermarket
+Found new resource esx_plasticsurgery in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_plasticsurgery
+Found new resource esx_clotheshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_clotheshop
+Found new resource esx_tattoosShops in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_tattoosShops
+Found new resource esx_pharmacy in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_pharmacy
+Found new resource esx_eden_clotheshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_eden_clotheshop
+Found new resource esx_narshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_narshop
+Found new resource esx_mask in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_mask
+Found new resource esx_dockshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[SHOP]/esx_dockshop
+Found new resource Weaponry in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/Weaponry
+Found new resource PTTPoliceRadio in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/PTTPoliceRadio
+Found new resource AddOnPedSpawnMenu in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/AddOnPedSpawnMenu
+Found new resource pNotify in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/pNotify
+Found new resource deadscreen in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/deadscreen
+Found new resource fixtraffic in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/fixtraffic
+Found new resource new_banking in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/new_banking
+Found new resource copnotify in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/copnotify
+Found new resource tab in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/tab
+Found new resource bob74_ipl2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/bob74_ipl2
+Found new resource InteractSound in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/InteractSound
+Found new resource afkkick in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/afkkick
+Found new resource radar in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/radar
+Found new resource esx_service in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_service
+Found new resource pausemenu in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/pausemenu
+Found new resource esx_news in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_news
+Found new resource radio in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/radio
+Found new resource instancedfix in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/instancedfix
+Found new resource vdk_call in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/vdk_call
+Found new resource watermark in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/watermark
+Found new resource mhacking in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/mhacking
+Found new resource esx_spectate in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_spectate
+Found new resource timertazer in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/timertazer
+Found new resource esx_checkdeathcause in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_checkdeathcause
+Found new resource ft_libs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/ft_libs
+Found new resource esx_knatusrobberybank in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_knatusrobberybank
+Found new resource esx_celldoors in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_celldoors
+Found new resource lesslethal_shotgun in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/lesslethal_shotgun
+Found new resource esx_license in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_license
+Found new resource msq-directions-hud in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/msq-directions-hud
+Found new resource Radargun in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/Radargun
+Found new resource z-loadscreen in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/z-loadscreen
+Found new resource esx_doorlock in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_doorlock
+Found new resource damageragdollv2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/damageragdollv2
+Found new resource 3dme in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/3dme
+Found new resource jsfour-idcard in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/jsfour-idcard
+Found new resource taxiadvert in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/taxiadvert
+Found new resource instancefox in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/instancefox
+Found new resource discordserveurname in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/discordserveurname
+Found new resource blips in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/blips
+Found new resource esx_barbie_lyftupp in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_barbie_lyftupp
+Found new resource XNLRideAnimals in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/XNLRideAnimals
+Found new resource esx_securitycam in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_securitycam
+Found new resource nonpcdrop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/nonpcdrop
+Found new resource esx_gunrange in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_gunrange
+Found new resource warmenu in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/warmenu
+Found new resource esx_realweapons in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_realweapons
+Found new resource clothesmerfik in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/clothesmerfik
+Found new resource instance in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/instance
+Found new resource stamina in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/stamina
+Found new resource esx_datastore in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_datastore
+Found new resource esx-qalle-sellvehicles in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx-qalle-sellvehicles
+Found new resource policelight in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/policelight
+Found new resource esx_getpedmodel in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_getpedmodel
+Found new resource esx_blowtorch in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_blowtorch
+Found new resource esx_discord_bot in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_discord_bot
+Found new resource esx_rpchat2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_rpchat2
+Found new resource esx_optionalneeds in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/esx_optionalneeds
+Found new resource StopDespawn in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/StopDespawn
+Found new resource WeaponDrop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/WeaponDrop
+Found new resource Serenityloading in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/Serenityloading
+Found new resource WeazelNewsCam in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[PLUGINS]/WeazelNewsCam
+Found new resource vehicle-control in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/vehicle-control
+Found new resource esx_jb_eden_garage2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_jb_eden_garage2
+Found new resource esx_ceinture in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_ceinture
+Found new resource speedometer in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/speedometer
+Found new resource RealisticVehicleFailure in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/RealisticVehicleFailure
+Found new resource esx_location in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_location
+Found new resource esx_dmvschool in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_dmvschool
+Found new resource ELS-FiveM in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/ELS-FiveM
+Found new resource esx_drp_garage in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_drp_garage
+Found new resource SeatbeltIndicator in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/SeatbeltIndicator
+Found new resource esx_advancedgarage in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_advancedgarage
+Found new resource esx_jb_migrate in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_jb_migrate
+Found new resource vehicle-push in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/vehicle-push
+Found new resource ESX_GiveCarKeys-1.0 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/ESX_GiveCarKeys-1.0
+Found new resource esx_jb_eden_garage in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/esx_jb_eden_garage
+Found new resource rdrp_rccars in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/rdrp_rccars
+Found new resource essence in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/essence
+Found new resource sirencontrols in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/sirencontrols
+Found new resource Lenzh_chopshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/Lenzh_chopshop
+Found new resource cv_control in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/cv_control
+Found new resource heli in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/heli
+Found new resource policevehiclesweapondeleter in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[VEHICULE]/policevehiclesweapondeleter
+Found new resource esx_lscustom in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_lscustom
+Found new resource Police-Backup in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/Police-Backup
+Found new resource esx_mamasjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_mamasjob
+Found new resource esx_lawyerjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_lawyerjob
+Found new resource esx_vehicleshop in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_vehicleshop
+Found new resource esx_tabacjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_tabacjob
+Found new resource esx_unicornjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_unicornjob
+Found new resource esx_pecheurjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_pecheurjob
+Found new resource esx_realestateagentjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_realestateagentjob
+Found new resource esx_jobs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_jobs
+Found new resource esx_journaliste in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_journaliste
+Found new resource esx_forklift in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_forklift
+Found new resource esx_ambulancejob2 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_ambulancejob2
+Found new resource esx_mechanicjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_mechanicjob
+Found new resource esx_property in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_property
+Found new resource jk_jobs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/jk_jobs
+Found new resource esx_vigneronjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_vigneronjob
+Found new resource esx_nightclub in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_nightclub
+Found new resource esx_brinks in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_brinks
+Found new resource esx_ammunation in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_ammunation
+Found new resource esx_poolcleaner in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_poolcleaner
+Found new resource esx_state in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_state
+Found new resource esx_truckerjob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_truckerjob
+Found new resource esx_duty in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_duty
+Found new resource esx_policejobtest in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_policejobtest
+Found new resource esx_joblisting in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_joblisting
+Found new resource avocat in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/avocat
+Found new resource esx_taxijob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_taxijob
+Found new resource esx_jobCounter in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_jobCounter
+Found new resource esx_policejob in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[METIERS]/esx_policejob
+Found new resource fulltenues in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[Vetements]/fulltenues
+Found new resource g_m_y_salvagoon_01 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[Vetements]/g_m_y_salvagoon_01
+Found new resource esx_binoculars in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ITEMS]/esx_binoculars
+Found new resource customdildo in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ITEMS]/customdildo
+Found new resource esx_gps in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ITEMS]/esx_gps
+Found new resource gcphone in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ITEMS]/gcphone
+Found new resource esx_walkman in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ITEMS]/esx_walkman
+Found new resource eden_drugs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/eden_drugs
+Found new resource esx_drugs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_drugs
+Found new resource esx_drugeffects in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_drugeffects
+Found new resource esx_holdup in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_holdup
+Found new resource venteillegal in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/venteillegal
+Found new resource stasiek_selldrugs in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/stasiek_selldrugs
+Found new resource esx_holdubijou in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_holdubijou
+Found new resource esx_armour in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_armour
+Found new resource esx_holdupbank in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_holdupbank
+Found new resource esx_krokodil in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ILLEGAL]/esx_krokodil
+Found new resource esx_slotmachine in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/esx_slotmachine
+Found new resource esx_AdvancedFishing in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/esx_AdvancedFishing
+Found new resource roulette_1 in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/roulette_1
+Found new resource esx_animals in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/esx_animals
+Found new resource chasse in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/chasse
+Found new resource pizza in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/pizza
+Found new resource es_carwash in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/es_carwash
+Found new resource esx_plongee in /home/ogp_agent/OGP_User_Files/V2/resources//[ESX]/[ACTIVITEE]/esx_plongee
+Found new resource esx_gunrange3 in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/[PoliceTraining]/esx_gunrange3
+Found new resource LEO in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/[PoliceTraining]/LEO
+Found new resource esx_gunrange2 in /home/ogp_agent/OGP_User_Files/V2/resources//[MAP]/[PoliceTraining]/esx_gunrange2
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource spawnmanager
+Stopping resource sessionmanager
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Started gametype Freeroam
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for async
+Started resource async
+Creating script environments for essentialmode
+Started resource essentialmode
+Creating script environments for esplugin_mysql
+Started resource esplugin_mysql
+Creating script environments for es_admin2
+Started resource es_admin2
+Creating script environments for baseevents
+Started resource baseevents
+Creating script environments for es_extended
+Started resource es_extended
+Started resource NativeUI
+Started resource ccreation
+Started resource loadipl
+Started resource ipl
+Started resource bob74_ipl
+Started resource fivem-ipl
+Started resource c_policestation_needs
+Started resource mapping
+Started resource panneaux
+Started resource policemap
+Started resource propy
+Started resource church
+Started resource trevorr
+Started resource hospital
+Started resource lifebook
+Started resource ballas
+Started resource villa
+Started resource LEO
+Started resource fmansion
+[93mCouldn't find resource biker.[0m
+[93mCouldn't find resource Bikers.[0m
+Started resource databas-park
+Started resource sexshop
+Started resource beach
+Started resource studio
+Started resource villa2
+Started resource modernranch
+[93mCouldn't find resource hotel.[0m
+[93mCouldn't find resource seahouse.[0m
+Started resource club
+Started resource customdildo
+Started resource allcity_medical
+Started resource nw_bahamaMama
+Started resource bureaumecha
+Started resource skate3
+Creating script environments for instance
+Started resource instance
+Creating script environments for instancefox
+Started resource instancefox
+[93mCouldn't find resource instancefix.[0m
+Creating script environments for cron
+Started resource cron
+Started resource skinchanger
+Creating script environments for esx_skin
+Started resource esx_skin
+Started resource esx_menu_default
+Started resource esx_menu_list
+Started resource esx_menu_dialog
+Creating script environments for gcphone
+Started resource gcphone
+Creating script environments for vdk_call
+Started resource vdk_call
+Creating script environments for esx_addonaccount
+Started resource esx_addonaccount
+Creating script environments for esx_addoninventory
+Started resource esx_addoninventory
+Creating script environments for esx_datastore
+Started resource esx_datastore
+Creating script environments for esx_society
+Started resource esx_society
+Creating script environments for esx_service
+Started resource esx_service
+Creating script environments for esx_billing
+Error parsing script @esx_billing/locales/fr.lua in resource esx_billing: @esx_billing/locales/fr.lua:7: '}' expected (to close '{' at line 1) near 'argent'
+Failed to load script locales/fr.lua.
+Started resource esx_billing
+Creating script environments for esx_license
+Started resource esx_license
+Creating script environments for esx_identity
+Started resource esx_identity
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for esx_basicneeds
+Started resource esx_basicneeds
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+Creating script environments for vMenu
+Loaded vMenuServer.net, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1281311350
+Instantiated instance of script GHMatti.Http.RequestInternal.
+Instantiated instance of script GHMatti.Http.Request.
+Instantiated instance of script vMenuServer.BanManager.
+[93m[vMenu] [WARNING] vMenu is set up to ignore permissions!
+If you did this on purpose then you can ignore this warning.
+If you did not set this on purpose, then you must have made a mistake while setting up vMenu.
+Please read the vMenu documentation ([36mhttps://docs.vespura.com/vmenu[93m).
+Most likely you are not executing the permissions.cfg (correctly).[0m
+Instantiated instance of script vMenuServer.MainServer.
+Instantiated instance of script vMenuServer.UpdateChecker.
+Started resource vMenu
+Creating script environments for 3dme
+Started resource 3dme
+Creating script environments for esx_jobCounter
+Started resource esx_jobCounter
+Creating script environments for nb_menuperso
+Started resource nb_menuperso
+Started resource radialvehicule
+Started resource radialmenu
+Creating script environments for esx_accessories
+Started resource esx_accessories
+Creating script environments for esx_discord_bot
+Started resource esx_discord_bot
+Creating script environments for esx_news
+Started resource esx_news
+Creating script environments for esx_optionalneeds
+Started resource esx_optionalneeds
+[93mCouldn't find resource jsfour-criminalrecord.[0m
+Started resource watermark
+Creating script environments for vBasic
+Started resource vBasic
+Started resource warmenu
+Started resource tab
+Creating script environments for esx_jailer
+Started resource esx_jailer
+Creating script environments for esx_jb_realtimejailer
+Started resource esx_jb_realtimejailer
+Creating script environments for esx-qalle-jail
+Started resource esx-qalle-jail
+Creating script environments for ft_libs
+Started resource ft_libs
+Creating script environments for esx_jb_eden_garage2
+Started resource esx_jb_eden_garage2
+Creating script environments for essence
+Started resource essence
+Creating script environments for vehicle-control
+Started resource vehicle-control
+Creating script environments for esx_inventoryhud_trunk
+Started resource esx_inventoryhud_trunk
+Creating script environments for ESX_GiveCarKeys-1.0
+Started resource ESX_GiveCarKeys-1.0
+Creating script environments for RealisticVehicleFailure
+Started resource RealisticVehicleFailure
+Started resource SeatbeltIndicator
+Started resource vehicle-push
+Started resource sirencontrols
+Started resource esx_ceinture
+Started resource clothesmerfik
+Started resource speedometer
+Creating script environments for esx_dmvschool
+Started resource esx_dmvschool
+Creating script environments for ELS-FiveM
+Started resource ELS-FiveM
+Creating script environments for policevehiclesweapondeleter
+Started resource policevehiclesweapondeleter
+Creating script environments for esx-qalle-sellvehicles
+Started resource esx-qalle-sellvehicles
+Creating script environments for policelight
+Started resource policelight
+Creating script environments for StopDespawn
+Started resource StopDespawn
+Creating script environments for heli
+Started resource heli
+Started resource rdrp_rccars
+Started resource cv_control
+Creating script environments for esx_location
+Started resource esx_location
+Creating script environments for new_banking
+Started resource new_banking
+Started resource stamina
+Started resource esx_teleports
+Started resource simpletp
+Started resource VK_interiors
+Creating script environments for VK_main
+Started resource VK_main
+Creating script environments for esx_celldoors
+Started resource esx_celldoors
+Creating script environments for esx_doorlock
+Started resource esx_doorlock
+Started resource mhacking
+Creating script environments for esx_blowtorch
+Started resource esx_blowtorch
+Started resource blips
+Started resource pNotify
+Started resource nonpcdrop
+Started resource progressBars
+Started resource deadscreen
+Creating script environments for esx_securitycam
+Started resource esx_securitycam
+Creating script environments for esx_spectate
+Started resource esx_spectate
+Creating script environments for esx_rpchat2
+Started resource esx_rpchat2
+Started resource knockout
+Started resource fixtraffic
+Started resource msq-directions-hud
+Started resource AddOnPedSpawnMenu
+Creating script environments for esx_getpedmodel
+Started resource esx_getpedmodel
+Creating script environments for jsfour-idcard
+Started resource jsfour-idcard
+Started resource z-loadscreen
+Creating script environments for afkkick
+Started resource afkkick
+Started resource discordserveurname
+Started resource voicechat
+Started resource WeaponDrop
+Started resource timertazer
+Creating script environments for WeazelNewsCam
+Started resource WeazelNewsCam
+Started resource pausemenu
+Creating script environments for InteractSound
+Started resource InteractSound
+Started resource radio
+Creating script environments for copnotify
+Started resource copnotify
+Creating script environments for esx_gunrange
+Started resource esx_gunrange
+Creating script environments for esx_gunrange2
+Started resource esx_gunrange2
+Creating script environments for esx_gunrange3
+Started resource esx_gunrange3
+Creating script environments for esx_barbie_lyftupp
+Started resource esx_barbie_lyftupp
+Started resource radar
+Started resource Weaponry
+Creating script environments for taxiadvert
+Started resource taxiadvert
+Started resource esx_checkdeathcause
+Started resource damageragdollv2
+Creating script environments for esx_eden_clotheshop
+Started resource esx_eden_clotheshop
+Creating script environments for esx_barbershop
+Started resource esx_barbershop
+Creating script environments for esx_mask
+Started resource esx_mask
+Creating script environments for esx_supermarket
+Started resource esx_supermarket
+Creating script environments for esx_coffeemachine
+Started resource esx_coffeemachine
+Creating script environments for esx_dockshop
+Started resource esx_dockshop
+Creating script environments for esx_narshop
+Started resource esx_narshop
+Creating script environments for esx_pharmacy
+Started resource esx_pharmacy
+Creating script environments for esx_tattoosShops
+Started resource esx_tattoosShops
+Creating script environments for esx_jobs
+Started resource esx_jobs
+Creating script environments for jk_jobs
+Started resource jk_jobs
+Creating script environments for esx_mechanicjob
+Started resource esx_mechanicjob
+Creating script environments for esx_vehicleshop
+Started resource esx_vehicleshop
+Creating script environments for esx_lscustom
+Started resource esx_lscustom
+Creating script environments for esx_ambulancejob2
+Started resource esx_ambulancejob2
+Creating script environments for Police-Backup
+Started resource Police-Backup
+Creating script environments for pizza
+Started resource pizza
+Creating script environments for esx_property
+Started resource esx_property
+Creating script environments for esx_duty
+Started resource esx_duty
+Creating script environments for esx_policejob
+Started resource esx_policejob
+Creating script environments for esx_ammunation
+Started resource esx_ammunation
+Creating script environments for esx_brinks
+Started resource esx_brinks
+Creating script environments for esx_journaliste
+Started resource esx_journaliste
+Creating script environments for esx_nightclub
+Started resource esx_nightclub
+Creating script environments for esx_truckerjob
+Started resource esx_truckerjob
+Creating script environments for esx_vigneronjob
+Started resource esx_vigneronjob
+Creating script environments for esx_unicornjob
+Started resource esx_unicornjob
+Creating script environments for esx_mamasjob
+Started resource esx_mamasjob
+Creating script environments for esx_pecheurjob
+Started resource esx_pecheurjob
+Creating script environments for esx_poolcleaner
+Started resource esx_poolcleaner
+Creating script environments for esx_realestateagentjob
+Started resource esx_realestateagentjob
+Creating script environments for esx_state
+Started resource esx_state
+Creating script environments for esx_tabacjob
+Started resource esx_tabacjob
+Creating script environments for chasse
+Started resource chasse
+Creating script environments for es_carwash
+Started resource es_carwash
+[93mCouldn't find resource es_AdvancedFishing.[0m
+Creating script environments for esx_animals
+Started resource esx_animals
+Creating script environments for esx_plongee
+Started resource esx_plongee
+Creating script environments for esx_slotmachine
+Started resource esx_slotmachine
+Creating script environments for esx_unishow
+Started resource esx_unishow
+Creating script environments for roulette_1
+Started resource roulette_1
+Creating script environments for eden_drugs
+Started resource eden_drugs
+Creating script environments for esx_drugeffects
+Started resource esx_drugeffects
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Creating script environments for esx_krokodil
+Started resource esx_krokodil
+Creating script environments for stasiek_selldrugs
+Started resource stasiek_selldrugs
+[93mCouldn't find resource ex_holdubijou.[0m
+Creating script environments for esx_holdup
+Started resource esx_holdup
+Creating script environments for esx_knatusrobberybank
+Started resource esx_knatusrobberybank
+Creating script environments for esx_armour
+Started resource esx_armour
+[93mCouldn't find resource esx_shops3.[0m
+Started resource Radiant_Animations
+Started resource esx_animations
+Creating script environments for PiggyBack
+Started resource PiggyBack
+Started resource bouclier
+Creating script environments for esx_ktackle
+Started resource esx_ktackle
+Creating script environments for esx_lapdance
+Started resource esx_lapdance
+Creating script environments for esx_sit
+Started resource esx_sit
+Started resource qalle-wheelchair
+Creating script environments for esx_headbag
+Started resource esx_headbag
+Started resource PTTPoliceRadio
+Started resource XNLRideAnimals
+Started resource lesslethal_shotgun
+Started resource Radargun
+Started resource NoReticle
+Started resource esx_realweapons
+Creating script environments for esx_gps
+Started resource esx_gps
+Creating script environments for esx_binoculars
+Started resource esx_binoculars
+Creating script environments for esx_walkman
+Started resource esx_walkman
+Creating script environments for esx_extraitems
+Started resource esx_extraitems
+Started resource 911gtrs
+Started resource pista
+Started resource demonhawk
+Started resource dodgeems
+Started resource ems
+Started resource emsfpiu
+Started resource heliems1
+Started resource fbi
+Started resource Insurgent
+Started resource interceptor
+Started resource mazepol
+Started resource moto
+Started resource policechiron
+Started resource schafter
+Started resource baby
+Started resource child2
+Started resource Dante
+Started resource DeadPool
+Started resource minibabygroot
+Started resource yoda
+Started resource zeus
+Started resource HarleyQuinn
+Started resource ironman
+Started resource mk50
+Started resource panther
+Started resource shrek
+Started resource skeleton
+Started resource fulltenues
+Started resource g_m_y_salvagoon_01
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to live-internal.fivem.net:30110
+
+=================================
+
+A new version of esx_eden_garage2 is available: 2.1.0
+patchnote: 
+- fix plates with trims
+- cannot open menu when in vehicle
+
+
+=================================
+
+Started map fivem-map-skater
+Started resource fivem-map-skater
+
+Current version: 5.0.2
+Updater version: 5.2.0
+
+
+Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+
+
+[vBasic] You are running the latest version of vBasic. Good job!
+
+server thread hitch warning: timer interval of 1086 milliseconds
+
+[36m[vMenu] Checking for updates.[0m
+[36m[vMenu] For info and support: www.vespura.com. Discord: www.vespura.com/discord.[97m
+[93m[vMenu] WARNING:[0m Your version of vMenu does [91mNOT [0mmatch the latest version!
+[93m[vMenu] WARNING:[0m Your version: v3.0.0[0m
+[93m[vMenu] WARNING:[0m Latest version: v3.0.3[0m
+[93m[vMenu] WARNING:[0m Release date: 25-04-2019[0m
+[93m[vMenu] WARNING:[0m Changelog summary: Fixes and new features.[0m
+[93m[vMenu] WARNING:[0m Please update as soon as possible!
+[93m[vMenu] WARNING:[0m Download: https://github.com/tomgrobbe/vMenu/releases/
+
+
+ELS-FiveM (ELS-FiveM) is up to date!
+server thread hitch warning: timer interval of 215 milliseconds
+[32m[mysql-async][0m Database server connection established.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [2037ms] SELECT * FROM vehicle_categories
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_narshop] [2047ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_supermarket] [2056ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_pharmacy] [2064ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2065ms] SELECT * FROM datastore
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [2072ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_dockshop] [2072ms] SELECT * FROM dock_categories
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [2074ms] SELECT * FROM addon_account
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [2076ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [2075ms] SELECT * FROM trunk_inventory
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [2075ms] DELETE FROM `trunk_inventory` WHERE `owned` = 0
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1537ms] SELECT * FROM properties
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_society] [1376ms] SELECT * FROM jobs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2086ms] SELECT * FROM items
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [66ms] SELECT * FROM vehicles
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_society] [5ms] SELECT * FROM job_grades
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [6ms] SELECT * FROM addon_inventory
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_narshop] [2ms] SELECT * FROM shops2
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_supermarket] [7ms] SELECT * FROM shops
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [6ms] SELECT * FROM datastore_data WHERE name = 'property'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_dockshop] [2ms] SELECT * FROM dock
+Error resuming coroutine: @esx_society/server/main.lua:26: attempt to index a nil value (field '?')
+stack traceback:
+        @esx_society/server/main.lua:26: in upvalue 'callback'
+        @mysql-async/lib/MySQL.lua:194: in function <@mysql-async/lib/MySQL.lua:186>
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [20ms] SELECT * FROM addon_account_data WHERE account_name = 'caution'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'property'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'society_ammu'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_ambulance'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [2ms] SELECT * FROM addon_account_data WHERE account_name = 'property_black_money'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_ammu'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'society_avocat'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_avocat'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_ambulance'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_brinks'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_brinks'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_cardealer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_ammu'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_dock'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_journaliste'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_journaliste'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_avocat'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_lawyer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_lawyer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_mamas'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_brinks'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_mamas_fridge'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_mamas'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_mechanic'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_cardealer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_nightclub'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [6ms] SELECT * FROM datastore_data WHERE name = 'society_nightclub'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [6ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_nightclub_fridge'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_dock'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_pecheur'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_pecheur'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_journaliste'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_state'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_tabac'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_state'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_lawyer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_taxi'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_tabac'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_unicorn'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [2ms] SELECT * FROM addon_account_data WHERE account_name = 'society_mamas'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [2ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_unicorn_fridge'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'society_taxi'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addoninventory] [1ms] SELECT * FROM addon_inventory_items WHERE inventory_name = 'society_vigne'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_mechanic'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_unicorn'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_nightclub'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [1ms] SELECT * FROM datastore_data WHERE name = 'society_vigne'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_pecheur'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'user_ears'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [2ms] SELECT * FROM addon_account_data WHERE account_name = 'society_police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'user_glasses'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [4ms] SELECT * FROM addon_account_data WHERE account_name = 'society_realestateagent'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'user_helmet'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [2ms] SELECT * FROM addon_account_data WHERE account_name = 'society_state'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_datastore] [2ms] SELECT * FROM datastore_data WHERE name = 'user_mask'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_tabac'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_taxe_brinks'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_taxi'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_unicorn'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [1ms] SELECT * FROM addon_account_data WHERE account_name = 'society_vigne'
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_dockshop] [6ms] SELECT * FROM users
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [6ms] SELECT * FROM rented_vehicles
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [10ms] SELECT * FROM owned_properties WHERE rented = 1
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_dockshop] [1ms] SELECT * FROM rented_vehicles
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Connecting: Jack Oneill[0m
+server thread hitch warning: timer interval of 317 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+Sending player (1) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000103818b45';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [1ms] SELECT * FROM coffeemachine
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000103818b45';
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [5ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000103818b45'
+Successfully Loaded Identity For Jack Oneill
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [14ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [33ms] UPDATE `users` SET `name` = 'Jack Oneill' WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [10ms] SELECT * FROM `jobs` WHERE `name` = 'police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `job_grades` WHERE `job_name` = 'police' AND `grade` = 4
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [69ms] SELECT * FROM user_licenses WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [53ms] SELECT * FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [6ms] SELECT * FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [1ms] SELECT * FROM licenses WHERE type = 'weapon'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [2ms] SELECT * FROM licenses WHERE type = 'peche'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [2ms] SELECT * FROM licenses WHERE type = 'weapon'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [1ms] SELECT * FROM licenses WHERE type = 'weapon'
+Error running call reference function for resource esx_license: citizen:/scripting/lua/scheduler.lua:405: @esx_license/server/main.lua:62: attempt to index a nil value (field '?')
+stack traceback:
+        @esx_license/server/main.lua:62: in upvalue 'ref'
+        citizen:/scripting/lua/scheduler.lua:391: in function <citizen:/scripting/lua/scheduler.lua:390>
+        [C]: in function 'xpcall'
+        citizen:/scripting/lua/scheduler.lua:390: in function <citizen:/scripting/lua/scheduler.lua:389>
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/scheduler.lua:405: in function <citizen:/scripting/lua/scheduler.lua:374>
+[91mError: Unhandled error in timer: Error: BUFFER_SHORTAGE
+Error: BUFFER_SHORTAGE
+    at n.e [as reserve] (citizen:/scripting/v8/msgpack.js:29:12766)
+    at h (citizen:/scripting/v8/msgpack.js:29:15761)
+    at n.r [as decode] (citizen:/scripting/v8/msgpack.js:29:13908)
+    at n.fetch (citizen:/scripting/v8/msgpack.js:29:6972)
+    at n.u [as read] (citizen:/scripting/v8/msgpack.js:29:12076)
+    at Object.n [as decode] (citizen:/scripting/v8/msgpack.js:29:7097)
+    at unpack (citizen:/scripting/v8/main.js:20:33)
+    at citizen:/scripting/v8/main.js:51:20
+    at setImmediate (mysql-async.js:14898:7)
+    at Object.callback (citizen:/scripting/v8/timer.js:96:21)[0m
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [24ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT * FROM owned_properties WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_lscustom] [4ms] SELECT * FROM vehicles
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [1ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=2000,`bank`=5400 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [1ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier ='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-jail] [1ms] SELECT jail FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [20ms] UPDATE users SET `money`=2000,`bank`=5400 WHERE `identifier`='steam:110000103818b45'
+Connecting: Scott Swagger[0m
+server thread hitch warning: timer interval of 208 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [20ms] UPDATE users SET `money`=2000,`bank`=5400 WHERE `identifier`='steam:110000103818b45'
+Sending player (2) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000137931c4e';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000137931c4e';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [1ms] SELECT * FROM coffeemachine
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [9ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000137931c4e'
+Successfully Loaded Identity For Scott Swagger
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [8ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [23ms] UPDATE `users` SET `name` = 'Scott Swagger' WHERE `identifier` = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [10ms] SELECT * FROM `jobs` WHERE `name` = 'mechanic'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `job_grades` WHERE `job_name` = 'mechanic' AND `grade` = 3
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [41ms] SELECT * FROM users WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [51ms] SELECT * FROM user_licenses WHERE owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [6ms] SELECT * FROM users WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [19ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT * FROM owned_properties WHERE owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [1ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [1ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier ='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-jail] [1ms] SELECT jail FROM users WHERE identifier = 'steam:110000137931c4e'
+Received a vouch for Scott Swagger, they have 2 vouches and need 2.
+Scott Swagger is the new arbitrator, with an overwhelming 2 vote/s.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `jobs` WHERE `name` = 'unemployed'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `job_grades` WHERE `job_name` = 'unemployed' AND `grade` = 0
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [85ms] UPDATE users SET `money`=890590,`bank`=5196 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [101ms] UPDATE users SET `money`=2000,`bank`=5400 WHERE `identifier`='steam:110000103818b45'
+server thread hitch warning: timer interval of 179 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [24ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [39ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [26ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [31ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":475800,\"percent\":47.58},{\"name\":\"thirst\",\"val\":469750,\"percent\":46.975}]' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [25ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[{\"name\":\"WEAPON_KNIFE\",\"label\":\"Couteau\",\"ammo\":0},{\"name\":\"WEAPON_NIGHTSTICK\",\"label\":\"Matraque\",\"ammo\":0},{\"name\":\"WEAPON_HAMMER\",\"label\":\"Marteau\",\"ammo\":0},{\"name\":\"WEAPON_BAT\",\"label\":\"Batte\",\"ammo\":0},{\"name\":\"WEAPON_GOLFCLUB\",\"label\":\"Club de golf\",\"ammo\":0},{\"name\":\"WEAPON_CROWBAR\",\"label\":\"Pied de biche\",\"ammo\":0},{\"name\":\"WEAPON_COMBATPISTOL\",\"label\":\"Pistolet de combat\",\"ammo\":9999},{\"name\":\"WEAPON_APPISTOL\",\"label\":\"Pistolet automatique\",\"ammo\":9999},{\"name\":\"WEAPON_PISTOL50\",\"label\":\"Pistolet calibre 50\",\"ammo\":9999},{\"name\":\"WEAPON_MICROSMG\",\"label\":\"Micro smg\",\"ammo\":9999},{\"name\":\"WEAPON_ASSAULTRIFLE\",\"label\":\"Fusil d\'assaut\",\"ammo\":9999},{\"name\":\"WEAPON_ADVANCEDRIFLE\",\"label\":\"Fusil avancé\",\"ammo\":9999},{\"name\":\"WEAPON_MG\",\"label\":\"Mitrailleuse\",\"ammo\":9945},{\"name\":\"WEAPON_COMBATMG\",\"label\":\"Mitrailleuse de combat\",\"ammo\":9945},{\"name\":\"WEAPON_SAWNOFFSHOTGUN\",\"label\":\"Carabine à canon scié\",\"ammo\":9999},{\"name\":\"WEAPON_ASSAULTSHOTGUN\",\"label\":\"Carabine d\'assaut\",\"ammo\":9999},{\"name\":\"WEAPON_BULLPUPSHOTGUN\",\"label\":\"Carabine bullpup\",\"ammo\":9999},{\"name\":\"WEAPON_STUNGUN\",\"label\":\"Tazer\",\"ammo\":9999},{\"name\":\"WEAPON_HEAVYSNIPER\",\"label\":\"Fusil de sniper lourd\",\"ammo\":9999},{\"name\":\"WEAPON_GRENADELAUNCHER\",\"label\":\"Lance-grenade\",\"ammo\":20},{\"name\":\"WEAPON_RPG\",\"label\":\"Lance-rocket\",\"ammo\":20},{\"name\":\"WEAPON_MINIGUN\",\"label\":\"Minigun\",\"ammo\":7328},{\"name\":\"WEAPON_GRENADE\",\"label\":\"Grenade\",\"ammo\":25},{\"name\":\"WEAPON_STICKYBOMB\",\"label\":\"Bombe collante\",\"ammo\":25},{\"name\":\"WEAPON_SMOKEGRENADE\",\"label\":\"Grenade fumigène\",\"ammo\":25},{\"name\":\"WEAPON_BZGAS\",\"label\":\"Grenade à gaz bz\",\"ammo\":25},{\"name\":\"WEAPON_MOLOTOV\",\"label\":\"Cocktail molotov\",\"ammo\":25},{\"name\":\"WEAPON_FIREEXTINGUISHER\",\"label\":\"Extincteur\",\"ammo\":2000},{\"name\":\"WEAPON_PETROLCAN\",\"label\":\"Jerrican d\'essence\",\"ammo\":4500},{\"name\":\"WEAPON_BALL\",\"label\":\"Balle\",\"ammo\":1},{\"name\":\"WEAPON_SNSPISTOL\",\"label\":\"Pistolet sns\",\"ammo\":9999},{\"name\":\"WEAPON_BOTTLE\",\"label\":\"Bouteille\",\"ammo\":0},{\"name\":\"WEAPON_GUSENBERG\",\"label\":\"Balayeuse gusenberg\",\"ammo\":9945},{\"name\":\"WEAPON_SPECIALCARBINE\",\"label\":\"Carabine spéciale\",\"ammo\":9999},{\"name\":\"WEAPON_HEAVYPISTOL\",\"label\":\"Pistolet lourd\",\"ammo\":9999},{\"name\":\"WEAPON_BULLPUPRIFLE\",\"label\":\"Fusil bullpup\",\"ammo\":9999},{\"name\":\"WEAPON_DAGGER\",\"label\":\"Poignard\",\"ammo\":0},{\"name\":\"WEAPON_VINTAGEPISTOL\",\"label\":\"Pistolet vintage\",\"ammo\":9999},{\"name\":\"WEAPON_FIREWORK\",\"label\":\"Feu d\'artifice\",\"ammo\":20},{\"name\":\"WEAPON_MUSKET\",\"label\":\"Mousquet\",\"ammo\":9999},{\"name\":\"WEAPON_HEAVYSHOTGUN\",\"label\":\"Fusil à pompe lourd\",\"ammo\":9999},{\"name\":\"WEAPON_MARKSMANRIFLE\",\"label\":\"Fusil marksman\",\"ammo\":9999},{\"name\":\"WEAPON_HOMINGLAUNCHER\",\"label\":\"Lance tête-chercheuse\",\"ammo\":10},{\"name\":\"WEAPON_PROXMINE\",\"label\":\"Mine de proximité\",\"ammo\":5},{\"name\":\"WEAPON_SNOWBALL\",\"label\":\"Boule de neige\",\"ammo\":10},{\"name\":\"WEAPON_FLAREGUN\",\"label\":\"Lance fusée de détresse\",\"ammo\":20},{\"name\":\"WEAPON_COMBATPDW\",\"label\":\"Arme de défense personnelle\",\"ammo\":9999},{\"name\":\"WEAPON_MARKSMANPISTOL\",\"label\":\"Pistolet marksman\",\"ammo\":9999},{\"name\":\"WEAPON_KNUCKLE\",\"label\":\"Poing américain\",\"ammo\":0},{\"name\":\"WEAPON_HATCHET\",\"label\":\"Hachette\",\"ammo\":0},{\"name\":\"WEAPON_RAILGUN\",\"label\":\"Canon éléctrique\",\"ammo\":20},{\"name\":\"WEAPON_MACHETE\",\"label\":\"Machette\",\"ammo\":0},{\"name\":\"WEAPON_MACHINEPISTOL\",\"label\":\"Pistolet mitrailleur\",\"ammo\":9999},{\"name\":\"WEAPON_SWITCHBLADE\",\"label\":\"Couteau à cran d\'arrêt\",\"ammo\":0},{\"name\":\"WEAPON_REVOLVER\",\"label\":\"Revolver\",\"ammo\":9999},{\"name\":\"WEAPON_DBSHOTGUN\",\"label\":\"Fusil à pompe double canon\",\"ammo\":9999},{\"name\":\"WEAPON_COMPACTRIFLE\",\"label\":\"Fusil compact\",\"ammo\":9999},{\"name\":\"WEAPON_AUTOSHOTGUN\",\"label\":\"Fusil à pompe automatique\",\"ammo\":9999},{\"name\":\"WEAPON_BATTLEAXE\",\"label\":\"Hache de combat\",\"ammo\":0},{\"name\":\"WEAPON_COMPACTLAUNCHER\",\"label\":\"Lanceur compact\",\"ammo\":20},{\"name\":\"WEAPON_MINISMG\",\"label\":\"Mini smg\",\"ammo\":9999},{\"name\":\"WEAPON_PIPEBOMB\",\"label\":\"Bombe tuyau\",\"ammo\":10},{\"name\":\"WEAPON_POOLCUE\",\"label\":\"Queue de billard\",\"ammo\":0},{\"name\":\"WEAPON_WRENCH\",\"label\":\"Clé\",\"ammo\":0},{\"name\":\"WEAPON_FLASHLIGHT\",\"label\":\"Lampe torche\",\"ammo\":0},{\"name\":\"WEAPON_FLARE\",\"label\":\"Fusée Détresse\",\"ammo\":25},{\"name\":\"WEAPON_SNSPISTOL_MK2\",\"label\":\"SNS Pistol Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_REVOLVER_MK2\",\"label\":\"Heavy Revolver Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_DOUBLEACTION\",\"label\":\"Double-Action Revolver\",\"ammo\":9999},{\"name\":\"WEAPON_SPECIALCARBINE_MK2\",\"label\":\"Special Carbine Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_BULLPUPRIFLE_MK2\",\"label\":\"Bullpup Rifle Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_PUMPSHOTGUN_MK2\",\"label\":\"Pump Shotgun Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_MARKSMANRIFLE_MK2\",\"label\":\"Marksman Rifle Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_ASSAULTRIFLE_MK2\",\"label\":\"Assault Rifle Mk II \",\"ammo\":9999},{\"name\":\"WEAPON_CARBINERIFLE_MK2\",\"label\":\"Carbine Rifle Mk II \",\"ammo\":9999},{\"name\":\"WEAPON_COMBATMG_MK2\",\"label\":\"Combat MG Mk II\",\"ammo\":9945},{\"name\":\"WEAPON_HEAVYSNIPER_MK2\",\"label\":\"Heavy Sniper Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_PISTOL_MK2\",\"label\":\"Pistol Mk II\",\"ammo\":9999},{\"name\":\"WEAPON_SMG_MK2\",\"label\":\"SMG Mk II\",\"ammo\":9999}]', `position` = '{\"z\":30.710708618164,\"y\":-980.7984008789,\"x\":431.94827270508}' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [24ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+[SAVED] Jack Oneill
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [71ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [33ms] UPDATE users SET `job` = 'unemployed', `job_grade` = 0, `loadout` = '[{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":1568}]', `position` = '{\"z\":31.080627441406,\"y\":-960.79559326172,\"x\":-346.10852050782}' WHERE identifier = 'steam:110000137931c4e'
+[SAVED] Scott Swagger
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [23ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":243800,\"percent\":24.38},{\"name\":\"thirst\",\"val\":179750,\"percent\":17.975}]' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [17ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [29ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [25ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [19ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [21ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [28ms] UPDATE users SET `job` = 'unemployed', `job_grade` = 0, `loadout` = '[{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":1568}]', `position` = '{\"z\":31.080627441406,\"y\":-960.79559326172,\"x\":-346.10852050782}' WHERE identifier = 'steam:110000137931c4e'
+[SAVED] Scott Swagger
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [26ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":124800,\"percent\":12.48},{\"name\":\"thirst\",\"val\":31000,\"percent\":3.1}]' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [38ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [35ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [37ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [34ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Connecting: Hayley Sax[0m
+server thread hitch warning: timer interval of 239 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [15ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=890590,`bank`=5496 WHERE `identifier`='steam:110000137931c4e'
+Sending player (3) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:1100001085f319e';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [4ms] SELECT * FROM users WHERE `identifier`='steam:1100001085f319e';
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [5ms] SELECT * FROM `users` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [3ms] SELECT * FROM `users` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [8ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:1100001085f319e'
+Successfully Loaded Identity For Hayley Sax
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [1ms] SELECT * FROM coffeemachine
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `jobs` WHERE `name` = 'mechanic'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] UPDATE `users` SET `name` = 'Hayley Sax' WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [61ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'crevette', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [60ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'highradio', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [60ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'rasperry', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [60ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'saumon_fume', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [60ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'lowradio', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [14ms] SELECT * FROM `job_grades` WHERE `job_name` = 'mechanic' AND `grade` = 3
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [28ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'thon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [53ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'c4_bank', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [52ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'blowtorch', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [51ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'seed', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [51ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'saumon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [53ms] SELECT * FROM user_licenses WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [44ms] SELECT * FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [6ms] SELECT * FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [87ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'airbag', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [49ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'boite_thon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'stockrim', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'armor', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [46ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'truelle', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [24ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'highrim', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [49ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'battery', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'cutting_pliers', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'samoussa_crevette', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:1100001085f319e', 'handcuff', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [37ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT * FROM owned_properties WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [1ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [1ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier ='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-jail] [2ms] SELECT jail FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [52ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [23ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [39ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [36ms] UPDATE users SET `job` = 'mechanic', `job_grade` = 3, `loadout` = '[]', `position` = '{\"z\":52.455242156982,\"y\":-158.07005310058,\"x\":-337.41207885742}' WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [60ms] UPDATE users SET `job` = 'unemployed', `job_grade` = 0, `loadout` = '[{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":3136}]', `position` = '{\"z\":31.077369689942,\"y\":-926.62683105468,\"x\":-341.3798828125}' WHERE identifier = 'steam:110000137931c4e'
+[SAVED] Hayley Sax
+[SAVED] Scott Swagger
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [26ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":426800,\"percent\":42.68},{\"name\":\"thirst\",\"val\":408500,\"percent\":40.85}]' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [41ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":451200,\"percent\":45.12},{\"name\":\"thirst\",\"val\":439000,\"percent\":43.9}]' WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [33ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [57ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [55ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [46ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [22ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [46ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `jobs` WHERE `name` = 'ambulance'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `job_grades` WHERE `job_name` = 'ambulance' AND `grade` = 4
+Error running call reference function for resource es_extended: citizen:/scripting/lua/scheduler.lua:405: @es_extended/server/classes/player.lua:380: attempt to index a nil value (field '?')
+stack traceback:
+        @es_extended/server/classes/player.lua:380: in upvalue 'ref'
+        citizen:/scripting/lua/scheduler.lua:391: in function <citizen:/scripting/lua/scheduler.lua:390>
+        [C]: in function 'xpcall'
+        citizen:/scripting/lua/scheduler.lua:390: in function <citizen:/scripting/lua/scheduler.lua:389>
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/scheduler.lua:405: in function <citizen:/scripting/lua/scheduler.lua:374>
+[91mError: Unhandled error in timer: Error: BUFFER_SHORTAGE
+Error: BUFFER_SHORTAGE
+    at n.e [as reserve] (citizen:/scripting/v8/msgpack.js:29:12766)
+    at h (citizen:/scripting/v8/msgpack.js:29:15761)
+    at n.r [as decode] (citizen:/scripting/v8/msgpack.js:29:13908)
+    at n.fetch (citizen:/scripting/v8/msgpack.js:29:6972)
+    at n.u [as read] (citizen:/scripting/v8/msgpack.js:29:12076)
+    at Object.n [as decode] (citizen:/scripting/v8/msgpack.js:29:7097)
+    at unpack (citizen:/scripting/v8/main.js:20:33)
+    at citizen:/scripting/v8/main.js:51:20
+    at setImmediate (mysql-async.js:14898:7)
+    at Object.callback (citizen:/scripting/v8/timer.js:96:21)[0m
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `jobs` WHERE `name` = 'ambulance'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `job_grades` WHERE `job_name` = 'ambulance' AND `grade` = 3
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [43ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [68ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [24ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [40ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [22ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [38ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [34ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [58ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [56ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [28ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [39ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":344400,\"percent\":34.44},{\"name\":\"thirst\",\"val\":305500,\"percent\":30.55}]' WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [37ms] UPDATE users SET `job` = 'ambulance', `job_grade` = 3, `loadout` = '[{\"name\":\"GADGET_PARACHUTE\",\"label\":\"Parachute\",\"ammo\":0}]', `position` = '{\"z\":34.910526275634,\"y\":-355.06442260742,\"x\":-498.08908081054}' WHERE identifier = 'steam:1100001085f319e'
+[SAVED] Hayley Sax
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Connecting: Hayley Sax[0m
+server thread hitch warning: timer interval of 225 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [29ms] UPDATE users SET `job` = 'unemployed', `job_grade` = 0, `loadout` = '[{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":3136}]', `position` = '{\"z\":42.38204574585,\"y\":-67.71703338623,\"x\":-425.19998168946}' WHERE identifier = 'steam:110000137931c4e'
+[SAVED] Scott Swagger
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [28ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":309800,\"percent\":30.98},{\"name\":\"thirst\",\"val\":262250,\"percent\":26.225}]' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending player (4) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:1100001085f319e';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [1ms] SELECT * FROM users WHERE `identifier`='steam:1100001085f319e';
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [5ms] SELECT * FROM `users` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [1ms] SELECT * FROM coffeemachine
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `users` WHERE `identifier` = 'steam:1100001085f319e'
+Successfully Loaded Identity For Hayley Sax
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [6ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [44ms] UPDATE `users` SET `name` = 'Hayley Sax' WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [12ms] SELECT * FROM `jobs` WHERE `name` = 'ambulance'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `job_grades` WHERE `job_name` = 'ambulance' AND `grade` = 3
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [50ms] SELECT * FROM user_licenses WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [41ms] SELECT * FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [5ms] SELECT * FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [22ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [4ms] SELECT * FROM owned_properties WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [2ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:1100001085f319e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [40ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [55ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":342400,\"percent\":34.24},{\"name\":\"thirst\",\"val\":303000,\"percent\":30.3}]' WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [53ms] UPDATE users SET `job` = 'ambulance', `job_grade` = 3, `loadout` = '[{\"name\":\"GADGET_PARACHUTE\",\"label\":\"Parachute\",\"ammo\":0}]', `position` = '{\"z\":34.91151046753,\"y\":-355.05520629882,\"x\":-498.09439086914}' WHERE identifier = 'steam:1100001085f319e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [52ms] UPDATE users SET `money`=7178375,`bank`=8100 WHERE `identifier`='steam:1100001085f319e'
+[SAVED] Hayley Sax
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [1ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier =@id
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [25ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [51ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [28ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [43ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":238400,\"percent\":23.84},{\"name\":\"thirst\",\"val\":173000,\"percent\":17.3}]' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [40ms] UPDATE users SET `job` = 'unemployed', `job_grade` = 0, `loadout` = '[{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":350}]', `position` = '{\"z\":18.23770904541,\"y\":-1200.5876464844,\"x\":-532.17315673828}' WHERE identifier = 'steam:110000137931c4e'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [40ms] UPDATE users SET `money`=890590,`bank`=5796 WHERE `identifier`='steam:110000137931c4e'
+[SAVED] Scott Swagger
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_society] [1ms] SELECT * FROM society_moneywash
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Connecting: Aydan Yoric[0m
+server thread hitch warning: timer interval of 250 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending player (5) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:11000011b5ffe79';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [1ms] SELECT * FROM coffeemachine
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:11000011b5ffe79';
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [5ms] SELECT * FROM `users` WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `users` WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [9ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:11000011b5ffe79'
+Successfully Loaded Identity For Hjhj Uuu
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [14ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] UPDATE `users` SET `name` = 'Aydan Yoric' WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `jobs` WHERE `name` = 'police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'crevette', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'highradio', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'rasperry', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'lowradio', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'saumon_fume', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `job_grades` WHERE `job_name` = 'police' AND `grade` = 4
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [24ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'thon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [49ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'c4_bank', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'blowtorch', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'seed', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'saumon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [65ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'airbag', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'stockrim', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [64ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'boite_thon', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [52ms] SELECT * FROM user_licenses WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [43ms] SELECT * FROM users WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [7ms] SELECT * FROM users WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [81ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'armor', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [106ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'truelle', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [24ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'highrim', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'battery', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [48ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'cutting_pliers', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'samoussa_crevette', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [46ms] INSERT INTO user_inventory (identifier, item, count) VALUES ('steam:11000011b5ffe79', 'handcuff', 0)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [31ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [5ms] SELECT * FROM owned_properties WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [3ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [2ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier ='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-jail] [1ms] SELECT jail FROM users WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [28ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [19ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [2ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:11000011b5ffe79' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:11000011b5ffe79' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:11000011b5ffe79' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [39ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [33ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [40ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[{\"name\":\"WEAPON_COMBATPISTOL\",\"label\":\"Pistolet de combat\",\"ammo\":9999},{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":500},{\"name\":\"WEAPON_CARBINERIFLE\",\"label\":\"Carabine d\'assaut\",\"ammo\":240},{\"name\":\"WEAPON_PUMPSHOTGUN\",\"label\":\"Flash Ball\",\"ammo\":523},{\"name\":\"WEAPON_SNIPERRIFLE\",\"label\":\"Fusil de sniper\",\"ammo\":500},{\"name\":\"WEAPON_VINTAGEPISTOL\",\"label\":\"Pistolet vintage\",\"ammo\":9999}]', `position` = '{\"z\":20.473581314086,\"y\":1088.50390625,\"x\":-3100.6608886718}' WHERE identifier = 'steam:11000011b5ffe79'
+[SAVED] Aydan Yoric
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [29ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":389600,\"percent\":38.96},{\"name\":\"thirst\",\"val\":362000,\"percent\":36.2}]' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [37ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+Connecting: Jack Oneill[0m
+server thread hitch warning: timer interval of 244 milliseconds
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_eden_garage2] [1ms] SELECT * FROM owned_vehicles WHERE owner='steam:11000011b5ffe79' AND (state=false OR fourrieremecano=true)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_eden_garage2] [3ms] SELECT * FROM owned_vehicles WHERE owner='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_eden_garage2] [1ms] SELECT * FROM owned_vehicles WHERE owner='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [29ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+Sending player (6) ELS data
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000103818b45';
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [2ms] SELECT * FROM users WHERE `identifier`='steam:110000103818b45';
+Access denied for command add_principal.
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_identity] [6ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_coffeemachine] [2ms] SELECT * FROM coffeemachine
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [3ms] SELECT * FROM `users` WHERE `identifier` = 'steam:110000103818b45'
+Successfully Loaded Identity For Jack Oneill
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [7ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [13ms] SELECT * FROM `user_inventory` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [47ms] UPDATE `users` SET `name` = 'Jack Oneill' WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [13ms] SELECT * FROM `jobs` WHERE `name` = 'police'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `job_grades` WHERE `job_name` = 'police' AND `grade` = 4
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `user_accounts` WHERE `identifier` = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [58ms] SELECT * FROM user_licenses WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [46ms] SELECT * FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [6ms] SELECT * FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [2ms] SELECT * FROM licenses WHERE type = 'weapon'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [2ms] SELECT * FROM licenses WHERE type = 'peche'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [2ms] SELECT * FROM licenses WHERE type = 'weapon'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_license] [1ms] SELECT * FROM licenses WHERE type = 'weapon'
+Error running call reference function for resource esx_license: citizen:/scripting/lua/scheduler.lua:405: @esx_license/server/main.lua:62: attempt to index a nil value (field '?')
+stack traceback:
+        @esx_license/server/main.lua:62: in upvalue 'ref'
+        citizen:/scripting/lua/scheduler.lua:391: in function <citizen:/scripting/lua/scheduler.lua:390>
+        [C]: in function 'xpcall'
+        citizen:/scripting/lua/scheduler.lua:390: in function <citizen:/scripting/lua/scheduler.lua:389>
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/scheduler.lua:405: in function <citizen:/scripting/lua/scheduler.lua:374>
+[91mError: Unhandled error in timer: Error: BUFFER_SHORTAGE
+Error: BUFFER_SHORTAGE
+    at n.e [as reserve] (citizen:/scripting/v8/msgpack.js:29:12766)
+    at h (citizen:/scripting/v8/msgpack.js:29:15761)
+    at n.r [as decode] (citizen:/scripting/v8/msgpack.js:29:13908)
+    at n.fetch (citizen:/scripting/v8/msgpack.js:29:6972)
+    at n.u [as read] (citizen:/scripting/v8/msgpack.js:29:12076)
+    at Object.n [as decode] (citizen:/scripting/v8/msgpack.js:29:7097)
+    at unpack (citizen:/scripting/v8/main.js:20:33)
+    at citizen:/scripting/v8/main.js:51:20
+    at setImmediate (mysql-async.js:14898:7)
+    at Object.callback (citizen:/scripting/v8/timer.js:96:21)[0m
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [2ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [27ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-sellvehicles] [1ms] SELECT seller, vehicleProps, price FROM vehicles_for_sale
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT * FROM owned_properties WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_skin] [1ms] SELECT skin FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_property] [1ms] SELECT last_property FROM users WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_tattoosShops] [1ms] SELECT * FROM playersTattoos WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_jb_realtimejailer] [1ms] SELECT TIMESTAMPDIFF(SECOND, CURRENT_TIMESTAMP,J_Time) as timeleft, J_Cell as cellule, isjailed as isjailed from jail where identifier ='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx-qalle-jail] [1ms] SELECT jail FROM users WHERE identifier = 'steam:110000103818b45'
+Error running system event handling function for resource vdk_call: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: @vdk_call/call_server.lua:128: attempt to index a nil value (field '?')
+stack traceback:
+        @vdk_call/call_server.lua:128: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:219: in function <citizen:/scripting/lua/scheduler.lua:218>
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+        citizen:/scripting/lua/scheduler.lua:218: in function <citizen:/scripting/lua/scheduler.lua:182>
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [33ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [49ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:11000011b5ffe79' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [29ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [45ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [21ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [37ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [37ms] UPDATE users SET `money`=1001230,`bank`=148 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [62ms] UPDATE users SET `money`=2000,`bank`=5500 WHERE `identifier`='steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 211 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [35ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [59ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:11000011b5ffe79' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [56ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 207 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [16ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 237 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [19ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [35ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [16ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[{\"name\":\"WEAPON_COMBATPISTOL\",\"label\":\"Pistolet de combat\",\"ammo\":9999},{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":500},{\"name\":\"WEAPON_CARBINERIFLE\",\"label\":\"Carabine d\'assaut\",\"ammo\":240},{\"name\":\"WEAPON_PUMPSHOTGUN\",\"label\":\"Flash Ball\",\"ammo\":523},{\"name\":\"WEAPON_SNIPERRIFLE\",\"label\":\"Fusil de sniper\",\"ammo\":500},{\"name\":\"WEAPON_VINTAGEPISTOL\",\"label\":\"Pistolet vintage\",\"ammo\":9999}]', `position` = '{\"z\":10.307099342346,\"y\":-904.63836669922,\"x\":-1408.578125}' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [30ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[]', `position` = '{\"z\":20.695846557618,\"y\":1105.113647461,\"x\":-3142.5881347656}' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [32ms] UPDATE user_inventory SET `count` = 10 WHERE identifier = 'steam:11000011b5ffe79' AND item = 'soda'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [31ms] UPDATE user_inventory SET `count` = 0 WHERE identifier = 'steam:11000011b5ffe79' AND item = 'donut'
+[SAVED] Jack Oneill
+[SAVED] Aydan Yoric
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [25ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":384600,\"percent\":38.46},{\"name\":\"thirst\",\"val\":355750,\"percent\":35.575}]' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [30ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":571000,\"percent\":57.1},{\"name\":\"thirst\",\"val\":813750,\"percent\":81.375}]' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+Sending heartbeat to live-internal.fivem.net:30110
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 224 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [60ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 246 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [35ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [59ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [27ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [52ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 236 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 253 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [48ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [47ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [22ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [38ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 219 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+Stopping resource esx_inventoryhud
+Creating script environments for esx_inventoryhud
+Started resource esx_inventoryhud
+server thread hitch warning: timer interval of 239 milliseconds
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [28ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [43ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+1
+1
+1
+1
+1
+1
+1
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [2ms] SELECT * FROM owned_vehicles
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM trunk_inventory WHERE plate = '65SAC765'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [28ms] INSERT INTO trunk_inventory(plate,data,owned) VALUES ('65SAC765','{}',false)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [26ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [49ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [55ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [54ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_gunrange] [2ms] SELECT * FROM `users` WHERE `identifier` = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_gunrange3] [1ms] SELECT * FROM `users` WHERE `identifier` = 'steam:11000011b5ffe79'
+Stopping resource esx_menu_default
+Started resource esx_menu_default
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [31ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [56ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [22ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[{\"name\":\"WEAPON_COMBATPISTOL\",\"label\":\"Pistolet de combat\",\"ammo\":9999},{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":463},{\"name\":\"WEAPON_CARBINERIFLE\",\"label\":\"Carabine d\'assaut\",\"ammo\":240},{\"name\":\"WEAPON_PUMPSHOTGUN\",\"label\":\"Flash Ball\",\"ammo\":523},{\"name\":\"WEAPON_SNIPERRIFLE\",\"label\":\"Fusil de sniper\",\"ammo\":500},{\"name\":\"WEAPON_VINTAGEPISTOL\",\"label\":\"Pistolet vintage\",\"ammo\":9999}]', `position` = '{\"z\":32.810188293458,\"y\":3211.3244628906,\"x\":-2152.9580078125}' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [46ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[]', `position` = '{\"z\":45.749523162842,\"y\":2608.2102050782,\"x\":1906.182006836}' WHERE identifier = 'steam:110000103818b45'
+[SAVED] Aydan Yoric
+[SAVED] Jack Oneill
+[SAVED] All players
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [29ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":265600,\"percent\":26.56},{\"name\":\"thirst\",\"val\":207000,\"percent\":20.7}]' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [48ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":444400,\"percent\":44.44},{\"name\":\"thirst\",\"val\":430500,\"percent\":43.05}]' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [37ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [61ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [1ms] SELECT * FROM `jobs` WHERE `name` = 'cardealer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [2ms] SELECT * FROM `job_grades` WHERE `job_name` = 'cardealer' AND `grade` = 3
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [1ms] SELECT * FROM cardealer_vehicles ORDER BY vehicle ASC
+Stopping resource esx_menu_default
+Started resource esx_menu_default
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [28ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [44ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [24ms] UPDATE addon_account_data SET money = 30000 WHERE account_name = 'society_cardealer'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [39ms] INSERT INTO cardealer_vehicles (vehicle, price) VALUES ('btype', 62000)
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [1ms] SELECT * FROM cardealer_vehicles ORDER BY vehicle ASC
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] SELECT * FROM position_drugs
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [1ms] SELECT * FROM cardealer_vehicles ORDER BY vehicle ASC
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [1ms] SELECT * FROM cardealer_vehicles ORDER BY vehicle ASC
+Stopping resource esx_menu_default
+Started resource esx_menu_default
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_inventoryhud_trunk] [1ms] SELECT * FROM owned_vehicles WHERE owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [16ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [32ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_vehicleshop] [2ms] SELECT * FROM cardealer_vehicles ORDER BY vehicle ASC
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [30ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [54ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [26ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [50ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [eden_drugs] [1ms] UPDATE position_drugs SET percent = percent + 2.09
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [36ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [61ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:110000103818b45' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:110000103818b45' WHERE phone_messages.receiver = users.phone_number
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT users.phone_number FROM users WHERE users.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_users_contacts.id, phone_users_contacts.number, phone_users_contacts.display FROM phone_users_contacts WHERE phone_users_contacts.identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [gcphone] [1ms] SELECT phone_messages.* FROM phone_messages LEFT JOIN users ON users.identifier = 'steam:110000103818b45' WHERE phone_messages.receiver = users.phone_number
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [38ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [55ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":483000,\"percent\":48.3},{\"name\":\"thirst\",\"val\":478750,\"percent\":47.875}]' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [52ms] UPDATE users SET `job` = 'cardealer', `job_grade` = 3, `loadout` = '[{\"name\":\"WEAPON_COMBATPISTOL\",\"label\":\"Pistolet de combat\",\"ammo\":9999},{\"name\":\"WEAPON_SMG\",\"label\":\"Smg\",\"ammo\":463},{\"name\":\"WEAPON_CARBINERIFLE\",\"label\":\"Carabine d\'assaut\",\"ammo\":240},{\"name\":\"WEAPON_PUMPSHOTGUN\",\"label\":\"Flash Ball\",\"ammo\":523},{\"name\":\"WEAPON_SNIPERRIFLE\",\"label\":\"Fusil de sniper\",\"ammo\":500},{\"name\":\"WEAPON_VINTAGEPISTOL\",\"label\":\"Pistolet vintage\",\"ammo\":9999}]', `position` = '{\"z\":30.578857421875,\"y\":-801.0562133789,\"x\":237.45663452148}' WHERE identifier = 'steam:11000011b5ffe79'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [52ms] UPDATE users SET `money`=1001230,`bank`=248 WHERE `identifier`='steam:11000011b5ffe79'
+[SAVED] Aydan Yoric
+Sending heartbeat to live-internal.fivem.net:30110
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_addonaccount] [29ms] UPDATE addon_account_data SET money = 0 WHERE account_name = 'caution' AND owner = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esx_status] [45ms] UPDATE users SET status = '[{\"name\":\"drug\",\"val\":0,\"percent\":0.0},{\"name\":\"drunk\",\"val\":0,\"percent\":0.0},{\"name\":\"hunger\",\"val\":188400,\"percent\":18.84},{\"name\":\"thirst\",\"val\":110500,\"percent\":11.05}]' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [es_extended] [30ms] UPDATE users SET `job` = 'police', `job_grade` = 4, `loadout` = '[]', `position` = '{\"z\":29.33476638794,\"y\":-854.13916015625,\"x\":266.8250427246}' WHERE identifier = 'steam:110000103818b45'
+[MariaDB:10.1.38-MariaDB-0+deb9u1] [esplugin_mysql] [29ms] UPDATE users SET `money`=2000,`bank`=5600 WHERE `identifier`='steam:110000103818b45'
+[SAVED] Jack Oneill
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] All players

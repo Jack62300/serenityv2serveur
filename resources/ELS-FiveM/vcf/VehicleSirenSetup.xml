@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SirenMastery>  
+    <!--Siren Mastery by Albo1125.
+	Please review the Siren Mastery documentation for full instructions on how to set this up.
+	There is also a folder included in the Siren Mastery download containing a few examples for your convenience, along with a tutorial video.
+	You can add as many VehicleSirenSetups as you want. They must be between the <SirenMastery> and </SirenMastery> brackets.-->
+	
+	<VehicleSirenSetup>
+		<VehicleModel>POLICE2</VehicleModel>
+		<VehicleModel>POLICE</VehicleModel>
+		<VehicleModel>POLICE3</VehicleModel>
+		<VehicleModel>POLICE4</VehicleModel>
+		<VehicleModel>RIOT</VehicleModel>
+		<VehicleModel>POLICET</VehicleModel>
+		<VehicleModel>POLICEOLD1</VehicleModel>
+		<VehicleModel>POLICEOLD2</VehicleModel>
+		<VehicleModel>FBI</VehicleModel>
+		<VehicleModel>FBI2</VehicleModel>
+		<VehicleModel>SHERIFF</VehicleModel>
+		<VehicleModel>SHERIFF2</VehicleModel>
+		<VehicleModel>POLICEB</VehicleModel>
+			<VehicleModel>POLICE31</VehicleModel>
+		<Sirens>
+			<Siren1 SirenType="Primary">PoliceFR</Siren1>
+			<Siren2 SirenType="Primary">GendarmerieFR</Siren2>
+			<Siren3 SirenType="Secondary">FireFR</Siren3>
+			<Siren4 SirenType="Secondary">AmbulanceFR</Siren4>
+			<Siren5 SirenType="Secondary">LowPriorityFR</Siren5>
+			<Siren6 SirenType="Secondary">SecondaryEmergencyFR</Siren6>
+			<Siren7 SirenType="Secondary">EmergencyHornFR</Siren7>
+			<Siren8 SirenType="Horn">HornEU</Siren8>
+		</Sirens>	
+	</VehicleSirenSetup>
+	
+	<VehicleSirenSetup>
+		<VehicleModel>PRANGER</VehicleModel>
+		<VehicleModel>LGUARD</VehicleModel>
+		<Sirens>
+			<Siren1 SirenType="Secondary">PoliceFR</Siren1>
+			<Siren2 SirenType="Secondary">GendarmerieFR</Siren2>
+			<Siren3 SirenType="Secondary">FireFR</Siren3>
+			<Siren4 SirenType="Secondary">AmbulanceFR</Siren4>
+			<Siren5 SirenType="Primary">LowPriorityFR</Siren5>
+			<Siren6 SirenType="Secondary">SecondaryEmergencyFR</Siren6>
+			<Siren7 SirenType="Secondary">EmergencyHornFR</Siren7>
+			<Siren8 SirenType="Horn">HornEU</Siren8>
+		</Sirens>	
+	</VehicleSirenSetup>
+	
+	<VehicleSirenSetup>
+		<VehicleModel>FIRETRUK</VehicleModel>
+		<VehicleModel>AMBULANCE</VehicleModel>
+		<Sirens>
+			<Siren1 SirenType="Secondary">PoliceFR</Siren1>
+			<Siren2 SirenType="Secondary">GendarmerieFR</Siren2>
+			<Siren3 SirenType="Primary">FireFR</Siren3>
+			<Siren4 SirenType="Primary">AmbulanceFR</Siren4>
+			<Siren5 SirenType="Primary">LowPriorityFR</Siren5>
+			<Siren6 SirenType="Secondary">SecondaryEmergencyFR</Siren6>
+			<Siren7 SirenType="Secondary">EmergencyHornFR</Siren7>
+			<Siren8 SirenType="Horn">HornEU</Siren8>
+		</Sirens>	
+	</VehicleSirenSetup>
+	
+</SirenMastery>
